@@ -5,6 +5,7 @@ and the occasional browser game.
 
 ### Featured
 
+- **[hahbah-homelab](https://github.com/wickedhardflip/hahbah-homelab)** — a home platform that looks like a subway map: portal, SSO, monitoring and pull-based deploys. A template to learn from and make your own.
 - **[replexon](https://github.com/wickedhardflip/replexon)** — self-hosted Plex backup system with a monitoring dashboard
 - **[IdeaOnward](https://github.com/wickedhardflip/IdeaOnward)** — open-source, self-hosted Kaizen / continuous-improvement platform (ASP.NET Core 8 + PostgreSQL)
 - **[hippo-heist](https://github.com/wickedhardflip/hippo-heist)** — browser arcade game in pure vanilla JS, HTML5 Canvas, and Web Audio
